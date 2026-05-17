@@ -31,13 +31,10 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     Component.Graph({
-          localGraph: {
-            showTags: true,
-            },
-            globalGraph: {
-                  showTags: true,
-            },
-      }),
+      localGraph: {
+        depth: -1,
+       },
+    }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
