@@ -1,0 +1,6 @@
+
+The nobility of [[Nerath]] tends to ground its authority in age, memory, and continuity with the [[Old Empire]]. Even its more openly ambitious houses prefer to justify themselves through precedent rather than novelty. Titles in Nerath carry unusual ceremonial weight, and noble power often extends through archives, temples, ports, legal traditions, and city offices as much as through landed estates.
+
+In broad terms, Nerathi nobles are divided between those whose power is rooted in the old city and its institutions, and those whose influence comes from sea power, frontier control, and external projection. The first group sees itself as steward of civilization; the second believes history matters only if defended in the present. Together they create a court culture that is proud, disciplined, and full of restrained rivalries.
+
+Notable houses include [[House Aedraig]], which draws its strength from law, ritual, and institutional continuity, and [[House Rhuvann]], whose naval and coastal interests make it one of the kingdom’s loudest voices on island policy. Both support Nerath’s hard line against [[Thiadery]], though for different reasons. One sees retreat as a stain on legitimacy, while the other sees it as a strategic failure.

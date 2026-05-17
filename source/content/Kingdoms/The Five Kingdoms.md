@@ -1,6 +1,5 @@
-# Five Kingdoms Overview
-
-The known mainland of [[Phiweriyu]] is divided among five kingdoms: [[Larnack]], Nerath, Thiadery, Fennock, and Fuarnarth. Long ago, these realms and the shattered northeastern landmass were all part of a single empire. That empire ended when its capital was destroyed and the emperor died, and in the centuries since the unified realm fractured into competing successor states.
+#Kingdom
+The known mainland of [[Phiweriyu]] is divided among five kingdoms: [[Larnack]], [[Nerath]], [[Thiadery]], [[Fennock]], and [[Fuarnarth]]. Long ago, these realms and the shattered northeastern landmass were all part of a single empire. That empire ended when its capital was destroyed and the emperor died, and in the centuries since the unified realm fractured into competing successor states.
 
 Larnack occupies the broad central plains and has become wealthy through geography rather than abundance. Its land is only averagely fertile, but its rivers and roads make it the primary trade nexus of the continent. Nerath, to the northeast, is home to the oldest city on the mainland and prides itself on age, memory, and imperial continuity. Thiadery is more fertile than Larnack but far less centralized, drawing strength from productive farmland, timber, and local lordships rather than a single tightly controlled royal core. Fennock is a swampy southern realm whose capital is slowly sinking into the marsh, forcing its rulers to rely on engineering, imported timber, and desperate civic maintenance. Fuarnarth lies in the far south and is a cold land made habitable in part by volcanic tunnels below the earth, which provide warmth and support mining, smithing, and underground infrastructure.
 
