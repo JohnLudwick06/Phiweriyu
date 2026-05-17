@@ -35,7 +35,6 @@ export const defaultContentPageLayout: PageLayout = {
                   depth: -1,
                   showTags: false,
                   fontSize: 0.6,
-                  opacityScale: 1,
       },
       globalGraph: {
             showTags: false,
